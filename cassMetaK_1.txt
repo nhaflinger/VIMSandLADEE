@@ -1,0 +1,12 @@
+\begindata
+KERNELS_TO_LOAD=(
+'/Users/nhaflinger/research/kernels/naif0009.tls',
+'/Users/nhaflinger/research/kernels/cas00084.tsc',
+'/Users/nhaflinger/research/kernels/cpck05Mar2004.tpc',
+'/Users/nhaflinger/research/kernels/020514_SE_SAT105.bsp',
+'/Users/nhaflinger/research/kernels/981005_PLTEPH-DE405S.bsp',
+'/Users/nhaflinger/research/kernels/030201AP_SK_SM546_T45.bsp',
+'/Users/nhaflinger/research/kernels/04135_04171pc_psiv2.bc',
+'/Users/nhaflinger/research/kernels/cas_v37.tf',
+'/Users/nhaflinger/research/kernels/cas_iss_v09.ti')
+\begintext

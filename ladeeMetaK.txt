@@ -1,0 +1,5 @@
+\begindata
+PATH_VALUES = ('/Users/nhaflinger/research/kernels')
+PATH_SYMBOLS = ('GEN')
+KERNELS_TO_LOAD=('$GEN/naif0012.tls','$GEN/pck00010.tpc')
+\begintext
