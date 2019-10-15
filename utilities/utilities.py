@@ -3,7 +3,7 @@
 #
 # author: Doug Creel
 #         University of Idaho, Physics Dept.
-# created: November 2017
+# created: October 2019
 # description: utility functions 
 #
 
